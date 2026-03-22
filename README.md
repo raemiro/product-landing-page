@@ -66,3 +66,18 @@ El proyecto fue publicado utilizando GitHub Pages:
 ##  Conclusión
 
 Este laboratorio permitió aplicar conceptos fundamentales de HTML semántico, accesibilidad y uso de herramientas como GitHub para el despliegue de proyectos web.
+
+# Laboratorio 02 - Flexbox
+
+## Descripción
+Landing page usando Flexbox para organizar contenido.
+
+## Breakpoints
+- 768px (móviles)
+
+## Tecnologías
+- HTML
+- CSS (Flexbox)
+
+## Deploy
+GitHub Pages activo
