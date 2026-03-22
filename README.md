@@ -81,3 +81,18 @@ Landing page usando Flexbox para organizar contenido.
 
 ## Deploy
 GitHub Pages activo
+# Laboratorio 04 - Frameworks CSS
+
+## Framework usado
+Bootstrap: fácil para componentes rápidos.
+Tailwind: más flexible y moderno.
+
+## Comandos usados
+git checkout -b bootstrap
+git checkout -b tailwind
+git add .
+git commit -m "mensaje"
+git push
+
+## Deploy
+GitHub Pages activo
